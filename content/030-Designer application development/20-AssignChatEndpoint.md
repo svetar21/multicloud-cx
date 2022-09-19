@@ -20,14 +20,18 @@ Once a Designer application has been created, assign it a chat endpoint.
      - The naming convention is U##_ChatEndpoint_#. 
      - For instance U39_ChatEndpoint_1, where ## is your unit id.
      - Click OK  
+
+![Designer](/images/file_1622754045059_azureDesignerTile.png)
+
 - You can now test a chat.
 
       - Have your Azure EOD Personal agent logged into Agent Desktop on the Portal and make them ready.
+      - Go to this page - Widgets Demo. 
+      - Paste your chat endpoint. Make sure to enter the name of the endpoint and not the name of the application.
+      - Select the stream in your Designer application (typically [dev])
+      - Hit [Submit]
 
-       - Go to this page - Widgets Demo 
+![Designer](/images/file_1622754045059_azureDesignerTile.png)
 
-       - Paste your chat endpoint. Make sure to enter the name of the endpoint and not the name of the application.
 
-       - Select the stream in your Designer application (typically [dev])
 
-       - Hit [Submit]
