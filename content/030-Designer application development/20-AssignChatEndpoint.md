@@ -39,6 +39,11 @@ Once a Designer application has been created, assign it a chat endpoint.
      - Open the widget to start a chat.
      - Fill up the chat registration form and hit [Start Chat].        
      - Note that you can also use the default "Treasure_Bank_Service" endpoint.
+     
+     - Preferably, name it after your unit name.
+     - The naming convention is U##_ChatEndpoint_#. 
+     - For instance U39_ChatEndpoint_1, where ## is your unit id.
+     - Click OK  
 
 
 -  Accept the chat with your Azure EOD Personal agent logged into Agent Desktop. 
