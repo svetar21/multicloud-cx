@@ -84,4 +84,4 @@ Optionally you can configure this agent to have the ability to enter his/her des
    - Check the 'Can Use WebRTC' checkbox
    - Hit [Save]
 
-![seven](/images/file_1629696126025_Screenshot 2021-08-23 152148.png)
+![seven](/images/file_1629696126025_Screenshot_152148.png)
