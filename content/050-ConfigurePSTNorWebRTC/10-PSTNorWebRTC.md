@@ -35,23 +35,24 @@ Optionally you can configure this agent to have the ability to enter his/her des
 
 - To configure  the 'prompt place' option:
 
-     -In Agent Setup, navigate to [Users] and select one of your agents - Agent Setup direct link
-Expand the [Desktop Options] 
-Click on [Global Login]
-Check the [Prompt Place] box
-Hit [Save]
+     - In Agent Setup, navigate to [Users] and select one of your agents - Agent Setup direct link
+     - Expand the [Desktop Options] 
+     - Click on [Global Login]
+     - Check the [Prompt Place] box
+     - Hit [Save]
+
+![Three](/images/file_1622775547962_azureAgentSetupTile.png)
 
 
+- When login in your agent in WWE, the 3rd login screen will prompt for the place
+
+     - The place will be prefilled with the default place
+     - If you want to change the place, simply type the place name you want to use
+
+![Four](/images/file_1622775547962_azureAgentSetupTile.png)
 
 
-When login in your agent in WWE, the 3rd login screen will prompt for the place
-
-The place will be prefilled with the default place
-If you want to change the place, simply type the place name you want to use
-
-
-
-Notes on the use of a PSTN phone
+- Notes on the use of a PSTN phone
 
 Since there is no 3rd party call control on an external phone, you won't be able to answer the call from WWE. You will need to answer the call from the PSTN phone
 
