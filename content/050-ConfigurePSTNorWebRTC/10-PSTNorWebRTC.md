@@ -23,11 +23,18 @@ This actually creates a second Place for the agent (u5agt@pec.com2 in the above 
 
 - Disable WebRTC for this agent
 
-       - Navigate to [Users] and select one of your agents - Agent Setup direct link
-       - In the Voice section, locate the [Can Use WebRTC] checkbox - you can filter options by typing 'webrtc' in the filter
-       - Uncheck the 'Can Use WebRTC' checkbox
-       - Hit [Save]
-       - 
+     - Navigate to [Users] and select one of your agents - Agent Setup direct link
+     - In the Voice section, locate the [Can Use WebRTC] checkbox - you can filter options by typing 'webrtc' in the filter
+     - Uncheck the 'Can Use WebRTC' checkbox
+     - Hit [Save]
+       
+     - In Agent Setup, navigate to [Users] and select one of your agents - Agent Setup direct link
+     - Expand the [Desktop Options] 
+     - Click on [Global Login]
+     - Check the [Prompt Place] box
+     - Hit [Save]
+       
+       
 ![Two](/images/file_1622775547962_azureAgentSetupTile.png)
 
 
