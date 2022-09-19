@@ -53,8 +53,99 @@ Select the newly cloned application by clicking on the highlighted area below:
 Select the build you created from the drop-down next to [DEV]:
 
 ![Designer](/images/file_1622754045059_azureDesignerTile.png)
+
+Assign one of your route point:
+
+Click on [Manage] next to the build and in the popup, select an available route point and check the box:
+
 ![Designer](/images/file_1622754045059_azureDesignerTile.png)
 ![Designer](/images/file_1622754045059_azureDesignerTile.png)
+
+
+Click [OK]
+
+Assign a chat endpoint to the application:
+
+Click on [Manage Chat Endpoints]
+
 ![Designer](/images/file_1622754045059_azureDesignerTile.png)
+
+
+In the popup, enter the endpoint name, preferably with your unit in the name, like “U203-PEC_Demo”: 
+
 ![Designer](/images/file_1622754045059_azureDesignerTile.png)
+
+
+click [OK]
+
+### How to use the template application
+The description will be for chat, but the behavior will be similar for voice.
+
+You can now test your template appllication:
+
+      - Have your Azure EOD Personal agent logged into Agent Desktop on the Portal and make them ready.
+
+      - Go to this page - Widgets Demo 
+
+      - Paste your chat endpoint. Make sure to enter the name of the endpoint and not the name of the application.
+
+      - Select the stream in your Designer application (typically [dev])
+
+      - Hit [Submit]
+
 ![Designer](/images/file_1622754045059_azureDesignerTile.png)
+
+
+       - This opens a new window with the widget on the right side of the page
+
+       - Open the widget to start a chat.
+
+       - Fill up the chat registration form and hit [Start Chat]. 
+ Accept the chat with your Azure EOD Personal agent logged into Agent Desktop. 
+
+![Designer](/images/file_1622754045059_azureDesignerTile.png)
+
+You can ask what your options are:
+
+![Designer](/images/file_1622754045059_azureDesignerTile.png)
+
+And so on…
+
+Widget on customer site:
+
+Note that you also have the option to load the widget on a customer site by using the TamperMonkey injection script as described in the [TamperMonkey - Usage & Configuration] section below. In either case, you will have to configure the same chat endpoint you assigned the application to.
+
+Routing and Callback:
+
+When getting to the routing to an agent, the application checks if an agent of your unit is available before routing.
+If none is available, a callback option is offered (only when application runs a phone call at this time).
+ 
+
+### Options that control the application behavior
+A data table is used by the template application, where you can change the behavior.
+
+In Designer, go to “Business Controls”/”Data Tables” to access this table, which name includes your unit ID:
+
+![Designer](/images/file_1622754045059_azureDesignerTile.png)
+
+
+To change an option, click on the table name then on the option you want to change. In the below example, the callback timezone wil be changed:
+
+![Designer](/images/file_1622754045059_azureDesignerTile.png)
+
+![Designer](/images/file_1622754045059_azureDesignerTile.png)
+
+
+
+
+Click [OK]
+Click [Save Table]
+Click on [Publish Table]
+Click on [Confirm Publish]
+
+The “Authentication” option lets you choose between the following 3 values:
+
+       - None: the caller ID is not requested.
+       - Simple: the caller ID is requested. You must enter your mobile number, then a 4 digits PIN (any value will work).
+       - Two factor: the caller ID is requested. You must enter your mobile number. Your mobile will receive an SMS with a security code. You will be asked to enter the security code. Should your mobile NOT receive this SMS, you can enter ‘123456’ as confirmation code.
+
