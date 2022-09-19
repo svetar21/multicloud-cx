@@ -10,7 +10,7 @@ Once a Designer application has been created, you can assign it a Route Point.
 
 - Click on the line of one of your applications.
 - Click on [Manage]:
-![Apps](/images/eodDsgnrAddApp.png)
+![Manage](/images/eodDIDManage.png)
 - Click on the internal route point you want to assign to the app:
 ![Apps](/images/eodDsgnrAddApp.png)
 > Notice that the Unit ID for this example is 12. Your numbers will change accordigly for your specific Unit ID. 
