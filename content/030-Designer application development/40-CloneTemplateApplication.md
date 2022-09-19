@@ -24,9 +24,13 @@ Click on the table row that contains the template (not on the template name whic
 
 ### How to clone your own application from the template
 Click on [Clone application]...
+
 ![Designer](/images/file_1622754045059_azureDesignerTile.png)
+
 ...and give the clone a meaningful name, like "U203-Application_PEC_Demo”, then click [Create and Open]
+
 ![Designer](/images/file_1622754045059_azureDesignerTile.png)
+
 When the application is open.
 
 ![Designer](/images/file_1622754045059_azureDesignerTile.png)
