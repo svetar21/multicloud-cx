@@ -31,7 +31,7 @@ Once a Designer application has been created, assign it a chat endpoint.
      - Select the stream in your Designer application (typically [dev])
      - Hit [Submit]
 
-![ChatTesting](/images/file_1623269540913_azureChatTesting.png)\
+![ChatTesting](/images/file_1623269540913_azureChatTesting.png)
 
      - Preferably, name it after your unit name.
 
