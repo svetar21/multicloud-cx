@@ -4,7 +4,7 @@ chapter: true
 weight: 10
 ---
 
-## Configuration steps
+## Adding/Removing PSTN number
 
 ### Adding a PSTN number to an agent
 
@@ -28,14 +28,14 @@ This actually creates a second Place for the agent (u5agt@pec.com2 in the above 
        - Uncheck the 'Can Use WebRTC' checkbox
        - Hit [Save]
        - 
-![One](/images/file_1622775547962_azureAgentSetupTile.png)
+![Two](/images/file_1622775547962_azureAgentSetupTile.png)
 
 
 Optionally you can configure this agent to have the ability to enter his/her desired place to use at login, the default that will be presented in WWE will be the one for which the 'default' checkbox is checked.
 
 - To configure  the 'prompt place' option:
 
-In Agent Setup, navigate to [Users] and select one of your agents - Agent Setup direct link
+     -In Agent Setup, navigate to [Users] and select one of your agents - Agent Setup direct link
 Expand the [Desktop Options] 
 Click on [Global Login]
 Check the [Prompt Place] box
