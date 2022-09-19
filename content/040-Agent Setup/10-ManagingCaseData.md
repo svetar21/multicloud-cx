@@ -6,7 +6,7 @@ weight: 10
 
 ## Managing Case Data
 
-Note: if you override Case Data, the global definition of Case Data (defined under "Contact Center Settings") will be entirely replaced with what you define at the agent group level. This means that if you want to preserve the global definition (and add your own Case Data), you will have to copy the global Case Data entries into your setting at the agent group level.
+>Note: if you override Case Data, the global definition of Case Data (defined under "Contact Center Settings") will be entirely replaced with what you define at the agent group level. This means that if you want to preserve the global definition (and add your own Case Data), you will have to copy the global Case Data entries into your setting at the agent group level.
 
 Click on the Agent Setup tile within the Azure EOD Portal, and login with your Azure EOD Personal user of role Administrator (refer to the 'Login Information' section on how to find users). 
 note: Tenant is left blank.
