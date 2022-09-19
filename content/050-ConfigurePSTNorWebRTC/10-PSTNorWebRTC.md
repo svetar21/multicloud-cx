@@ -28,25 +28,19 @@ This actually creates a second Place for the agent (u5agt@pec.com2 in the above 
      - Uncheck the 'Can Use WebRTC' checkbox
      - Hit [Save]
        
-     - In Agent Setup, navigate to [Users] and select one of your agents - Agent Setup direct link
-     - Expand the [Desktop Options] 
-     - Click on [Global Login]
-     - Check the [Prompt Place] box
-     - Hit [Save]
-       
        
 ![Two](/images/file_1622775547962_azureAgentSetupTile.png)
 
 
 Optionally you can configure this agent to have the ability to enter his/her desired place to use at login, the default that will be presented in WWE will be the one for which the 'default' checkbox is checked.
 
-- To configure  the 'prompt place' option:
+### To configure  the 'prompt place' option:
 
-     - In Agent Setup, navigate to [Users] and select one of your agents - Agent Setup direct link
-     - Expand the [Desktop Options] 
-     - Click on [Global Login]
-     - Check the [Prompt Place] box
-     - Hit [Save]
+- In Agent Setup, navigate to [Users] and select one of your agents - Agent Setup direct link
+- Expand the [Desktop Options] 
+- Click on [Global Login]
+- Check the [Prompt Place] box
+- Hit [Save]
 
 ![Three](/images/file_1622775547962_azureAgentSetupTile.png)
 
