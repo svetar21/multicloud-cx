@@ -16,7 +16,7 @@ weight: 10
 - Check the 'default' checkbox and make sure the 'use' checkbox is checked
 - Hit [Save]
 
-![Seven](/images/eodManageSkills.png)
+![One](/images/file_1623128428660_Screenshot 2021-06-08 150004.png)
  
 ![One](/images/file_1623128428660_Screenshot 2021-06-08 150004.png)
 
