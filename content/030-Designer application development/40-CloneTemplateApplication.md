@@ -39,12 +39,17 @@ When the application is open.
 - Click [Build] and give the build a name.
 
 ![Designer](/images/file_1622754045059_azureDesignerTile.png)
+
 Hit the [Build] button in the bottom right.
+
 ![Designer](/images/file_1622754045059_azureDesignerTile.png)
+
 Go back to the list of Applications by hitting the top-menu “Applications”
 
 Select the newly cloned application by clicking on the highlighted area below:
+
 ![Designer](/images/file_1622754045059_azureDesignerTile.png)
+
 Select the build you created from the drop-down next to [DEV]:
 
 ![Designer](/images/file_1622754045059_azureDesignerTile.png)
