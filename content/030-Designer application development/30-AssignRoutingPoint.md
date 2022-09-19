@@ -4,3 +4,4 @@ chapter: true
 weight: 30
 ---
 
+## Assign Routing Point for Voice
