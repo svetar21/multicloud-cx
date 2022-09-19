@@ -20,6 +20,6 @@ Your internal route point has been assigned:
 
 You can use 2 shared DIDs (local numbers in North America and in UK) that will automatically map to Internal DIDs that you can assign to your application.
 
-![PersUsers](/images/EODPersonalUsers.PNG)
+![PersUsers](/images/eodDIDNumberAdded.png)
 
 You can then call the external route points of the group you assigned to your application. In the above example, call +1 (650) 337-3811 because you assigned the application to group 1. This call should be routed to one of your logged in and ready agents.
