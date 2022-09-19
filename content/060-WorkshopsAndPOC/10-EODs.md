@@ -57,5 +57,19 @@ Your Azure EOD POC will encompass:
 
 ### Deployment and deprovisioning
 
-You can deploy EOD Workshop and EOD POC similar way as EOD Personal. The main difference is - when selecting environmnet type you have to select either EOD POC or EOD Workshop
+You can deploy EOD Workshop and EOD POC similar way as EOD Personal. The main difference is - when selecting environment type you have to select either EOD POC or EOD Workshop
 
+![One](/images/file_1604108221953_gecEODSelectType.jpg)
+
+or 
+
+![Two](/images/file_1604347813178_gecPOCSelectType.jpg)
+
+
+Just as important as the deployment and proper usage of an EOD, is the deprovisioning of the environment when you are no longer in need of it.
+
+![Three](/images/file_1623715371064_azureDeprovision.png)
+
+Azure EODs are environments that consume a large amount of resources and we will continue to invest in the deployments.  We just ask that you be cognizant of using them efficiently.
+
+If you have an EOD that you don’t need, please deprovision it. If you don’t really need months for a ‘just in case’ EOD, please reconsider the expiration or deprovision it.
