@@ -11,15 +11,15 @@ weight: 10
 Click on the Agent Setup tile within the Azure EOD Portal, and login with your Azure EOD Personal user of role Administrator (refer to the 'Login Information' section on how to find users). 
 note: Tenant is left blank.
 
-
+![One](/images/file_1622775547962_azureAgentSetupTile.png)
 
 Navigate to [Agent Groups] / U##-AgentGroup:
 
-
+![Ywo](/images/eodAgentGroups.png)
 
 ..then navigate to [Agent Group] / [Case Data]
 
-
+![Three](/images/eodAgentGroupCaseD.png)
 
 1) On the right panel, click on [Folder: /GDemo] and select the [U###] folder. This folder is owned by the unit and the unit admin has create/update/delete permissions on this folder to handle objects of the selected type (Case Data in this example)
 
@@ -29,13 +29,14 @@ Navigate to [Agent Groups] / U##-AgentGroup:
 
 4) Click on [+ Add] to add a key/value pair of case data to be displayed to the agent. 
 
-The Name needs to be an interaction data key name to be presented to the agent. 
-You can set a [Display name] which is the actual name that will be shown to the agent
-The entry can be made mandatory (in which case the agent cannot terminate the interaction if this entry has no value)
-The entry type can be selected – if set to Read Only, the agent cannot change the value
-A default value can be set in case no value is set in the interaction data
+- The Name needs to be an interaction data key name to be presented to the agent. 
+- You can set a [Display name] which is the actual name that will be shown to the agent
+- The entry can be made mandatory (in which case the agent cannot terminate the interaction if this entry has no value)
+- The entry type can be selected – if set to Read Only, the agent cannot change the value
+- A default value can be set in case no value is set in the interaction data
+
 5) Repeat the previous step for all entries required in the Case Data.
 
-
+![Four](/images/eodManageCase.png)
 
 6) Click on [Save] – otherwise the entire set of changes are not applied and saved.*
