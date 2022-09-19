@@ -4,9 +4,16 @@ chapter: true
 weight: 10
 ---
 
-## Overwiew
+## Overview
 
 ### Different types of EOD
+
+There are 3 different types of EOD available:
+   - Personal
+   - Workshop
+   - POC
+
+
 
 
 ### Workshop
