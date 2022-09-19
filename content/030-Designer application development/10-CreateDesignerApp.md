@@ -6,11 +6,11 @@ weight: 10
 
 ## Create a Designer App for Routing
 
-1.On the Azure EOD Portal login to Designer with your user of role Administrator (refer to 'Login Information' section on how to find users). 
+- On the Azure EOD Portal login to Designer with your user of role Administrator (refer to 'Login Information' section on how to find users). 
 >note: Tenant is left blank.
 ![Environments](/images/file_1604107212047_gecEnvironments.jpg)
 
-2.On the Applications page click on [Add Application].
+- On the Applications page click on [Add Application].
 ![Environments](/images/file_1604107212047_gecEnvironments.jpg)
 
 3.Give the application a name, preferably including your unit id. For instance U##-App1, where ## is your unit id. 
