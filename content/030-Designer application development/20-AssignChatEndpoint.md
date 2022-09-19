@@ -25,6 +25,7 @@ Once a Designer application has been created, assign it a chat endpoint.
 
 - You can now test a chat.
 
+     - Preferably, name it after your unit name.
      - Have your Azure EOD Personal agent logged into Agent Desktop on the Portal and make them ready.
      - Go to this page - Widgets Demo. 
      - Paste your chat endpoint. Make sure to enter the name of the endpoint and not the name of the application.
