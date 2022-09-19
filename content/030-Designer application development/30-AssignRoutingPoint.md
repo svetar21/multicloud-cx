@@ -12,11 +12,11 @@ Once a Designer application has been created, you can assign it a Route Point.
 - Click on [Manage]:
 ![Manage](/images/eodDIDManage.png)
 - Click on the internal route point you want to assign to the app:
-![Apps](/images/eodDsgnrAddApp.png)
+![InternalRP](/images/eodDIDChooseNum.png)
 > Notice that the Unit ID for this example is 12. Your numbers will change accordigly for your specific Unit ID. 
 
 Your internal route point has been assigned:
-![Apps](/images/eodDsgnrAddApp.png)
+![AssignedRP](/images/eodDIDManage.png)
 
 You can use 2 shared DIDs (local numbers in North America and in UK) that will automatically map to Internal DIDs that you can assign to your application.
 
