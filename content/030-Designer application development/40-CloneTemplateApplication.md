@@ -48,18 +48,18 @@ Go back to the list of Applications by hitting the top-menu “Applications”
 
 Select the newly cloned application by clicking on the highlighted area below:
 
-![Designer](/images/file_1622754045059_azureDesignerTile.png)
+![Seven](/images/eodTemplateSelectClone.png)
 
 Select the build you created from the drop-down next to [DEV]:
 
-![Designer](/images/file_1622754045059_azureDesignerTile.png)
+![Eight](/images/eodTemplateDevBuild.png)
 
 Assign one of your route point:
 
 Click on [Manage] next to the build and in the popup, select an available route point and check the box:
 
-![Designer](/images/file_1622754045059_azureDesignerTile.png)
-![Designer](/images/file_1622754045059_azureDesignerTile.png)
+![Nine](/images/eodTemplateManage.png)
+![Ten](/images/eodTemplateRoutePoint.png)
 
 
 Click [OK]
@@ -68,12 +68,12 @@ Assign a chat endpoint to the application:
 
 Click on [Manage Chat Endpoints]
 
-![Designer](/images/file_1622754045059_azureDesignerTile.png)
+![Eleven](/images/eodTemplateManageEndpoint.png)
 
 
 In the popup, enter the endpoint name, preferably with your unit in the name, like “U203-PEC_Demo”: 
 
-![Designer](/images/file_1622754045059_azureDesignerTile.png)
+![Twelve](/images/eodTemplateAssignEndpoint.png)
 
 
 click [OK]
@@ -93,7 +93,7 @@ You can now test your template appllication:
 
       - Hit [Submit]
 
-![Designer](/images/file_1622754045059_azureDesignerTile.png)
+![Thirteen](/images/file_1623269540913_azureChatTesting.png)
 
 
        - This opens a new window with the widget on the right side of the page
@@ -103,11 +103,11 @@ You can now test your template appllication:
        - Fill up the chat registration form and hit [Start Chat]. 
  Accept the chat with your Azure EOD Personal agent logged into Agent Desktop. 
 
-![Designer](/images/file_1622754045059_azureDesignerTile.png)
+![Fourteen](/images/eodTemplateChatExample.png)
 
 You can ask what your options are:
 
-![Designer](/images/file_1622754045059_azureDesignerTile.png)
+![Fiftgeen](/images/eodTemplateChatOptions.png)
 
 And so on…
 
@@ -126,14 +126,14 @@ A data table is used by the template application, where you can change the behav
 
 In Designer, go to “Business Controls”/”Data Tables” to access this table, which name includes your unit ID:
 
-![Designer](/images/file_1622754045059_azureDesignerTile.png)
+![Sixteen](/images/eodTemplateDataTables.png)
 
 
 To change an option, click on the table name then on the option you want to change. In the below example, the callback timezone wil be changed:
 
-![Designer](/images/file_1622754045059_azureDesignerTile.png)
+![Seventeen](/images/eodTemplateChangeOption.png)
 
-![Designer](/images/file_1622754045059_azureDesignerTile.png)
+![Eighteen](/images/eodTemplateTimezone.png)
 
 
 
