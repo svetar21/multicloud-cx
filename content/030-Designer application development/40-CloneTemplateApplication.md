@@ -58,8 +58,9 @@ Assign one of your route point:
 
        - Click on [Manage] next to the build and in the popup, select an available route point and check the box:
 
-       ![Nine](/images/eodTemplateManage.png)
-       ![Ten](/images/eodTemplateRoutePoint.png)
+![Nine](/images/eodTemplateManage.png)
+
+![Ten](/images/eodTemplateRoutePoint.png)
 
 
        - Click [OK]
