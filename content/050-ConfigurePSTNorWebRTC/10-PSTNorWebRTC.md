@@ -16,19 +16,25 @@ weight: 10
 - Check the 'default' checkbox and make sure the 'use' checkbox is checked
 - Hit [Save]
  
+![One](/images/file_1622775547962_azureAgentSetupTile.png)
 
 
 This actually creates a second Place for the agent (u5agt@pec.com2 in the above example).
 
 - Disable WebRTC for this agent
+
        - Navigate to [Users] and select one of your agents - Agent Setup direct link
-In the Voice section, locate the [Can Use WebRTC] checkbox - you can filter options by typing 'webrtc' in the filter
-Uncheck the 'Can Use WebRTC' checkbox
-Hit [Save]
+       - In the Voice section, locate the [Can Use WebRTC] checkbox - you can filter options by typing 'webrtc' in the filter
+       - Uncheck the 'Can Use WebRTC' checkbox
+       - Hit [Save]
+       - 
+![One](/images/file_1622775547962_azureAgentSetupTile.png)
+
 
 Optionally you can configure this agent to have the ability to enter his/her desired place to use at login, the default that will be presented in WWE will be the one for which the 'default' checkbox is checked.
 
-To configure  the 'prompt place' option:
+- To configure  the 'prompt place' option:
+
 In Agent Setup, navigate to [Users] and select one of your agents - Agent Setup direct link
 Expand the [Desktop Options] 
 Click on [Global Login]
