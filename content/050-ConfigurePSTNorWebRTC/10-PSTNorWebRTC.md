@@ -7,20 +7,21 @@ weight: 10
 ## Configuration steps
 
 ### Adding a PSTN number to an agent
-Click on the Agent Setup tile within the Genesys Engage Cloud Portal, and login with your EOD Personal user of role Administrator. 
-Navigate to [Users] and select one of your agents - Agent Setup direct link
-In the General Info section, locate the [Phone Number(s)] section
-The first entry of the table is the WebRTC phone. Do not edit/delete this entry
-Click on the next line's number and enter your PSTN in E164 format (including +country_code)
-Check the 'default' checkbox and make sure the 'use' checkbox is checked
-Hit [Save]
+
+- Click on the Agent Setup tile within the Genesys Engage Cloud Portal, and login with your EOD Personal user of role Administrator. 
+- Navigate to [Users] and select one of your agents - Agent Setup direct link
+- In the General Info section, locate the [Phone Number(s)] section
+- The first entry of the table is the WebRTC phone. Do not edit/delete this entry
+- Click on the next line's number and enter your PSTN in E164 format (including +country_code)
+- Check the 'default' checkbox and make sure the 'use' checkbox is checked
+- Hit [Save]
  
 
 
 This actually creates a second Place for the agent (u5agt@pec.com2 in the above example).
 
-Disable WebRTC for this agent
-Navigate to [Users] and select one of your agents - Agent Setup direct link
+- Disable WebRTC for this agent
+       - Navigate to [Users] and select one of your agents - Agent Setup direct link
 In the Voice section, locate the [Can Use WebRTC] checkbox - you can filter options by typing 'webrtc' in the filter
 Uncheck the 'Can Use WebRTC' checkbox
 Hit [Save]
