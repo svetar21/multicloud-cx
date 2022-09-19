@@ -39,4 +39,7 @@ Once a Designer application has been created, assign it a chat endpoint.
        - Note that you can also use the default "Treasure_Bank_Service" endpoint.
 
 
+-  Accept the chat with your Azure EOD Personal agent logged into Agent Desktop. 
+![Designer](/images/file_1622754045059_azureDesignerTile.png)
+![Designer](/images/file_1622754045059_azureDesignerTile.png)
 
