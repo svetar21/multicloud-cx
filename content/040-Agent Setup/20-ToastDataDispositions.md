@@ -1,7 +1,7 @@
 ---
 title: "Managing Toast Data, and Dispositions"
 chapter: true
-weight: 10
+weight: 20
 ---
 
 ## Managing Toast Data, and Dispositions
