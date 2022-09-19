@@ -6,7 +6,7 @@ weight: 30
 
 ## Objective
 
-By the end of this section you will know how to create Designer Application and
+By the end of this section you will know how to create Designer Application, how to assign chat Endpoint and Routing Point and how to clone template application
 
 
 
