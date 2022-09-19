@@ -29,7 +29,7 @@ This actually creates a second Place for the agent (u5agt@pec.com2 in the above 
      - Hit [Save]
        
        
-![Two](/images/file_1629695986354_Screenshot 2021-08-23 151552.pn)
+![Two](/images/file_1629695986354_Screenshot_151552.png)
 
 
 Optionally you can configure this agent to have the ability to enter his/her desired place to use at login, the default that will be presented in WWE will be the one for which the 'default' checkbox is checked.
@@ -42,7 +42,7 @@ Optionally you can configure this agent to have the ability to enter his/her des
 - Check the [Prompt Place] box
 - Hit [Save]
 
-![Three](/images/file_1623128959824_Screenshot 2021-06-08 150858.png)
+![Three](/images/file_1623128959824_Screenshot_150858.png)
 
 
 ### When login in your agent in WWE, the 3rd login screen will prompt for the place
@@ -50,7 +50,7 @@ Optionally you can configure this agent to have the ability to enter his/her des
 - The place will be prefilled with the default place
 - If you want to change the place, simply type the place name you want to use
 
-![Four](/images/file_1623129863687_Screenshot 2021-06-08 152408.png)
+![Four](/images/file_1623129863687_Screenshot_152408.png)
 
 
 ### Notes on the use of a PSTN phone
@@ -70,7 +70,7 @@ Optionally you can configure this agent to have the ability to enter his/her des
 - Uncheck the 'use' checkbox for this line
 - Check the 'default' checkbox on the first line (WebRTC number)
 
-![five](/images/file_1623130291215_Screenshot 2021-06-08 153112.png)
+![five](/images/file_1623130291215_Screenshot_153112.png)
 
 - Click on [Save] - you will be prompted to delete the Place
 - Check the [Delete user's Places] box, then click on [Update]
