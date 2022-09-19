@@ -16,9 +16,8 @@ weight: 10
 - Check the 'default' checkbox and make sure the 'use' checkbox is checked
 - Hit [Save]
 
- ![Six](/images/eodExternalURLs.png)
-![One](/images/file_1623128428660_Screenshot 2021-06-08 150004.png)
 
+![One](/images/file_1629695986354_Screenshot_151552.png
 
 This actually creates a second Place for the agent (u5agt@pec.com2 in the above example).
 
