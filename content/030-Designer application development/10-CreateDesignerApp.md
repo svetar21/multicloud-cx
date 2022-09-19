@@ -42,18 +42,18 @@ weight: 10
 - Click [Specify Skills in this block]. 
 - Click on the [Select Some Options] box.
 
-![Environments](/images/file_1604107212047_gecEnvironments.jpg)
+![RoutingType](/images/eodDsgnrSelectRoute.png)
 
 - In the drop-down, select at least your unit skill (U##-Skill for instance) 
 >Optionally you can add a second specialized skill like BackOffice to target your <BO> agent
 
-![Environments](/images/file_1604107212047_gecEnvironments.jpg
+![Skill](/images/eodDsgnrDD.png)
   
   
 - [Save Flow] then [Publish] your Application when done.  
   
 
-![Environments](/images/file_1604107212047_gecEnvironments.jpg)
+![SaveFlow](/images/eodSaveFlowPub.png)
   
 ### Self Service (Register a Bot)
   
