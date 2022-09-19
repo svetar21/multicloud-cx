@@ -17,7 +17,7 @@ The template application for the unit shows in the Applications list. Its name i
 
 Click on the table row that contains the template (not on the template name which is a link, but on the row). The description will populate on the right. The description for the application is useful to know what is included with the build.
 
-![Designer](/images/file_1622754045059_azureDesignerTile.png)
+![One](/images/eodTemplateApplications.png)
 
 > NOTE! : the Template is a standard application that can be edited and associated to a route point or chat endpoint but we strongly recommend that you do not edit or use the application directly. Instead, you must clone the application before modifying or using it.
  
@@ -25,24 +25,24 @@ Click on the table row that contains the template (not on the template name whic
 ### How to clone your own application from the template
 Click on [Clone application]...
 
-![Designer](/images/file_1622754045059_azureDesignerTile.png)
+![Two](/images/eodTemplateCloneApp.png)
 
 ...and give the clone a meaningful name, like "U203-Application_PEC_Demo”, then click [Create and Open]
 
-![Designer](/images/file_1622754045059_azureDesignerTile.png)
+![Three](/images/eodTemplateCloneName.png)
 
 When the application is open.
 
-![Designer](/images/file_1622754045059_azureDesignerTile.png)
+![Four](/images/eodTemplateSavePubBuild.png)
 - Click [Save]
 - Click [Publish]
 - Click [Build] and give the build a name.
 
-![Designer](/images/file_1622754045059_azureDesignerTile.png)
+![Five](/images/eodTemplateCreateBuild.png)
 
 Hit the [Build] button in the bottom right.
 
-![Designer](/images/file_1622754045059_azureDesignerTile.png)
+![Six](/images/eodTemplateBuildBtn.png)
 
 Go back to the list of Applications by hitting the top-menu “Applications”
 
