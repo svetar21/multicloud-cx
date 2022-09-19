@@ -1,5 +1,5 @@
 ---
-title: "Agent Setup
+title: "Agent Setup"
 chapter: true
 weight: 40
 ---
