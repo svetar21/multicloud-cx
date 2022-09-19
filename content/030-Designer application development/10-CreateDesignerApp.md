@@ -59,10 +59,9 @@ weight: 10
   
 - To register a bot, you need to go to 'Grammar & Bots' > 'Bots Registry' section and enter the bot name and choose the Type, and then click Submit.
   
-![Environments](/images/file_1604107212047_gecEnvironments.jpg
+![BotName](/images/file_1623106618735_azureBotDefine.png)
   
 - Then you will need to enter the settings for the Type you selected. In this example, for Dialog Engine. Then click Save.
   
-![Environments](/images/file_1604107212047_gecEnvironments.jpg
-
+![Settings](/images/file_1623106837724_azureBotSettings.png)
   
