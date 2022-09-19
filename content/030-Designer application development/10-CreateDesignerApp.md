@@ -18,7 +18,7 @@ Keep the type of application as [Default].
 Click on [Create And Open].
 ![Environments](/images/file_1604107212047_gecEnvironments.jpg)
 
-4. In Application Settings click on [Digital],
+4.In Application Settings click on [Digital],
 then check the [Enable Omni-Channel support for Default applications] box, 
 then click on [Please Review All Settings and Press Here to Continue]. 
 
@@ -31,7 +31,7 @@ then click on [Please Review All Settings and Press Here to Continue] / [Save].
 ![Environments](/images/file_1604107212047_gecEnvironments.jpg)
 
 >You need as a bare minimum to add one block named [Route Call] (under [Routing] in the palette)
-6. Click on the [Route Call] block and drag/drop it inside the [Assisted Service] section.
+6.Click on the [Route Call] block and drag/drop it inside the [Assisted Service] section.
 ![Environments](/images/file_1604107212047_gecEnvironments.jpg)
 
 ### Assisted Service
