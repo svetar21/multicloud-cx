@@ -33,10 +33,10 @@ Once a Designer application has been created, assign it a chat endpoint.
 
 ![ChatTesting](/images/file_1623269540913_azureChatTesting.png)
 
-     - This opens a new window with the widget on the right side of the page.
-     - Open the widget to start a chat.
-     - Fill up the chat registration form and hit [Start Chat].        
-     - Note that you can also use the default "Treasure_Bank_Service" endpoint.
+    - This opens a new window with the widget on the right side of the page.
+    - Open the widget to start a chat.
+    - Fill up the chat registration form and hit [Start Chat].        
+    - Note that you can also use the default "Treasure_Bank_Service" endpoint.
 
 
 -  Accept the chat with your Azure EOD Personal agent logged into Agent Desktop. 
