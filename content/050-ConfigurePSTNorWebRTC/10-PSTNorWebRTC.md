@@ -17,7 +17,7 @@ weight: 10
 - Hit [Save]
 
 
-![One](/images/file_1629695986354_Screenshot_151552.png
+![One](/images/file_1629695986354_Screenshot_151552.png)
 
 This actually creates a second Place for the agent (u5agt@pec.com2 in the above example).
 
