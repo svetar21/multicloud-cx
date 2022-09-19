@@ -147,6 +147,8 @@ The “Authentication” option lets you choose between the following 3 values:
 
        - None: the caller ID is not requested.
        - Simple: the caller ID is requested. You must enter your mobile number, then a 4 digits PIN (any value will work).
-       - Two factor: the caller ID is requested. You must enter your mobile number. Your mobile will receive an SMS with a security code.
-       You will be asked to enter the security code. Should your mobile NOT receive this SMS, you can enter ‘123456’ as confirmation code.
+       - Two factor: the caller ID is requested. You must enter your mobile number.]
+                     Your mobile will receive an SMS with a security code.
+                     You will be asked to enter the security code. 
+                     Should your mobile NOT receive this SMS, you can enter ‘123456’ as confirmation code.
 
