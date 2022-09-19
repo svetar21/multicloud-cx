@@ -56,28 +56,28 @@ Select the build you created from the drop-down next to [DEV]:
 
 Assign one of your route point:
 
-       - Click on [Manage] next to the build and in the popup, select an available route point and check the box:
+- Click on [Manage] next to the build and in the popup, select an available route point and check the box:
 
 ![Nine](/images/eodTemplateManage.png)
 
 ![Ten](/images/eodTemplateRoutePoint.png)
 
 
-       - Click [OK]
+- Click [OK]
 
 Assign a chat endpoint to the application:
 
-       - Click on [Manage Chat Endpoints]
+- Click on [Manage Chat Endpoints]
 
 ![Eleven](/images/eodTemplateManageEndpoint.png)
 
 
-       - In the popup, enter the endpoint name, preferably with your unit in the name, like “U203-PEC_Demo”: 
+- In the popup, enter the endpoint name, preferably with your unit in the name, like “U203-PEC_Demo”: 
 
 ![Twelve](/images/eodTemplateAssignEndpoint.png)
 
 
-        - click [OK]
+- click [OK]
 
 ### How to use the template application
 The description will be for chat, but the behavior will be similar for voice.
