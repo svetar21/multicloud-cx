@@ -16,23 +16,23 @@ weight: 10
 - Give the application a name, preferably including your unit id. For instance U##-App1, where ## is your unit id. 
 - Keep the type of application as [Default].
 - Click on [Create And Open].
-![Environments](/images/file_1604107212047_gecEnvironments.jpg)
+![CreateApp](/images/eodDsgnrCreateApp.png)
 
 - In Application Settings click on [Digital].
 - Check the [Enable Omni-Channel support for Default applications] box.
 - Click on [Please Review All Settings and Press Here to Continue]. 
 
-![Environments](/images/file_1604107212047_gecEnvironments.jpg)
+![AppSettings](/images/eodDsgnrAppDigit(1).png)
 
 - In Application Settings click on [Persona].
 - Check the [Enable Persona] checkbox.
 - Click on [Please Review All Settings and Press Here to Continue] / [Save]. 
 
-![Environments](/images/file_1604107212047_gecEnvironments.jpg)
+![Personal](/images/eodDsgnrAppPersona.png)
 
 >You need as a bare minimum to add one block named [Route Call] (under [Routing] in the palette)
 - Click on the [Route Call] block and drag/drop it inside the [Assisted Service] section.
-![Environments](/images/file_1604107212047_gecEnvironments.jpg)
+![RouteCall](/images/eodDsgnrRouteCall.png)
 
 ### Assisted Service
 
