@@ -1,13 +1,14 @@
 ---
-title: "Introduction"
+title: "Getting Started"
 chapter: true
 weight: 10
 ---
 
-# Genesys Workshop Series
+![Title](/images/GettingStarted.jpg)
+### Prerequisites:
 
-## Introduction
+Completion of Multicloud CX Workshop 101.
 
-### Welcome
+### Before you begin:
 
-In this workshop, you will learn how to build a workshop from scratch using Github and a few other tools. This workshop is intended for internal teams and partners who are working to develop workshops. 
+Ypu need to have Azure EOD Personal succesfully deployed. You need to know how to lofin into Agent Desktop 
