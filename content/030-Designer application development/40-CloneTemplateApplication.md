@@ -84,24 +84,24 @@ The description will be for chat, but the behavior will be similar for voice.
 
 You can now test your template appllication:
 
-      - Have your Azure EOD Personal agent logged into Agent Desktop on the Portal and make them ready.
+- Have your Azure EOD Personal agent logged into Agent Desktop on the Portal and make them ready.
 
-      - Go to this page - Widgets Demo 
+- Go to this page - Widgets Demo 
 
-      - Paste your chat endpoint. Make sure to enter the name of the endpoint and not the name of the application.
+- Paste your chat endpoint. Make sure to enter the name of the endpoint and not the name of the application.
 
-      - Select the stream in your Designer application (typically [dev])
+- Select the stream in your Designer application (typically [dev])
 
-      - Hit [Submit]
+- Hit [Submit]
 
 ![Thirteen](/images/file_1623269540913_azureChatTesting.png)
 
 
-       - This opens a new window with the widget on the right side of the page
+- This opens a new window with the widget on the right side of the page
 
-       - Open the widget to start a chat.
+- Open the widget to start a chat.
 
-       - Fill up the chat registration form and hit [Start Chat]. 
+- Fill up the chat registration form and hit [Start Chat]. 
  Accept the chat with your Azure EOD Personal agent logged into Agent Desktop. 
 
 ![Fourteen](/images/eodTemplateChatExample.png)
