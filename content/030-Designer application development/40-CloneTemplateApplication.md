@@ -69,12 +69,12 @@ Assign a chat endpoint to the application:
 
        - Click on [Manage Chat Endpoints]
 
-        ![Eleven](/images/eodTemplateManageEndpoint.png)
+![Eleven](/images/eodTemplateManageEndpoint.png)
 
 
        - In the popup, enter the endpoint name, preferably with your unit in the name, like “U203-PEC_Demo”: 
 
-        ![Twelve](/images/eodTemplateAssignEndpoint.png)
+![Twelve](/images/eodTemplateAssignEndpoint.png)
 
 
         - click [OK]
