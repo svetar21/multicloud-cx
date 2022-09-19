@@ -12,7 +12,7 @@ Once a Designer application has been created, assign it a chat endpoint.
  
 >tip - click on the row of the app, not on the name of the app. 
 
-![Designer](/images/file_1622754045059_azureDesignerTile.png)
+![ChatEndp](/images/eodDsgnrManageChatEP.png)
 
 - In the [Assign an EServices Endpoint] window, enter the desired chat endpoint name.
 
@@ -21,7 +21,7 @@ Once a Designer application has been created, assign it a chat endpoint.
      - For instance U39_ChatEndpoint_1, where ## is your unit id.
      - Click OK  
 
-![Designer](/images/file_1622754045059_azureDesignerTile.png)
+![AssighEndp](/images/eodAssignEsEndpoint.png)
 
 - You can now test a chat.
 
@@ -31,7 +31,7 @@ Once a Designer application has been created, assign it a chat endpoint.
       - Select the stream in your Designer application (typically [dev])
       - Hit [Submit]
 
-![Designer](/images/file_1622754045059_azureDesignerTile.png)
+![ChatTesting](/images/file_1623269540913_azureChatTesting.png)
 
        - This opens a new window with the widget on the right side of the page.
        - Open the widget to start a chat.
@@ -40,6 +40,6 @@ Once a Designer application has been created, assign it a chat endpoint.
 
 
 -  Accept the chat with your Azure EOD Personal agent logged into Agent Desktop. 
-![Designer](/images/file_1622754045059_azureDesignerTile.png)
-![Designer](/images/file_1622754045059_azureDesignerTile.png)
+![Endpoint](/images/file_1623292912618_azureEndpointChat7.png)
+![TBEndpoint](/images/file_1623272703571_azureEndpointChat.png)
 
