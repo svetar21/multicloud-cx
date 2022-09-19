@@ -58,9 +58,11 @@ weight: 10
 ### Self Service (Register a Bot)
   
 - To register a bot, you need to go to 'Grammar & Bots' > 'Bots Registry' section and enter the bot name and choose the Type, and then click Submit.
+  
 ![Environments](/images/file_1604107212047_gecEnvironments.jpg
   
 - Then you will need to enter the settings for the Type you selected. In this example, for Dialog Engine. Then click Save.
+  
 ![Environments](/images/file_1604107212047_gecEnvironments.jpg
 
   
