@@ -4,7 +4,7 @@ chapter: true
 weight: 90
 ---
 
-![Title](/images/Designer.PNG)
+![Title](/images/Conclusion.jpg)
 
 ## Finished!
 
