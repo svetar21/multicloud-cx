@@ -4,7 +4,7 @@ chapter: true
 weight: 40
 ---
 
-![Title](/images/Designer.PNG)
+![Title](/images/AgentSetup.PNG)
 
 ## Objective
 
