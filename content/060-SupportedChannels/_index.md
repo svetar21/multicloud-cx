@@ -4,7 +4,7 @@ chapter: true
 weight: 60
 ---
 
-![Title](/images/Designer.PNG)
+![Title](/images/SupChan.PNG)
 
 ## Objective
 
