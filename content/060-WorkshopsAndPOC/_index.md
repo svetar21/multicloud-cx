@@ -4,6 +4,8 @@ chapter: true
 weight: 60
 ---
 
+![Title](/images/Designer.PNG)
+
 ## Objective
 
 By the end of this section you will know the different types of EOD an d their main characteristics.
