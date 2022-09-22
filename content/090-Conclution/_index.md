@@ -4,6 +4,8 @@ chapter: true
 weight: 90
 ---
 
+![Title](/images/Conclusion.jpg)
+
 ## Finished!
 
 Congratulations! You've reached the end of today's workshop. You now know how to create and modify Designer application, how to use Agent Setup and what types of EOD are available. We hope this was an informative journey, and that you are now confident in your interaction fielding abilities.  

@@ -1,8 +1,10 @@
 ---
 title: "Workshops and POC"
 chapter: true
-weight: 60
+weight: 80
 ---
+
+![Title](/images/POC.PNG)
 
 ## Objective
 
