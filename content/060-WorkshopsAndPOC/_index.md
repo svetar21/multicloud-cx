@@ -1,7 +1,7 @@
 ---
 title: "Workshops and POC"
 chapter: true
-weight: 70
+weight: 80
 ---
 
 ![Title](/images/Designer.PNG)
