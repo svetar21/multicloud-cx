@@ -1,12 +1,12 @@
 ---
-title: "Digital Interactions"
+title: "Interaction Types"
 chapter: true
 weight: 10
 ---
 
-## Digital Interactions
+## Interaction Types
 
-Other then chat and voice following channels/interactions are available in your Azure EOD Personal:
+Other then chat and voice following interaction types are available for routing in your Azure EOD Personal:
 - Email
 - Callback
 - Social Media (WhatsApp, Twitter, Facebook)
