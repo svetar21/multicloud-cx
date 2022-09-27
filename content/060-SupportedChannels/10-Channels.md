@@ -11,5 +11,5 @@ Other then chat and voice following interaction types are available for routing 
 - Callback
 - Social Media (WhatsApp, Twitter, Facebook)
 - SMS
-- workitems
+- Workitem
 
