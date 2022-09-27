@@ -22,13 +22,13 @@ To access CX Contact click on the CX Contact tile on the portal main page.
 
 This action will opne the main CX Contact login page.
 
-![Two](/images/file_1623781304758_Capture12.png)
+![Two](/images/file_1626298746091_cxcmain.png)
 
 Enter your admin user name and password to login to CX Contact.
 
 Once logged in the CX Contact UI will be shown.
 
-![Three](/images/file_1623781304758_Capture12.png)
+![Three](/images/file_1626712735921_cxcui.png)
 
 The above image shows the "global" campaign templates and groups created for you to refer to when creating your own private CX Contact objects. The global set is shared by all users and therefore not the ideal source for individual demonstrations. However, the global objects will function and can be used for live demonstrations if required.
 
