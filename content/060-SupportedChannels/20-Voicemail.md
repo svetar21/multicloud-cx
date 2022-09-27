@@ -13,13 +13,13 @@ The Designer template application already has your group mailbox number assigned
 
 To access Voicemail login into Agent Desktop and dial 5555, follow the prompts.
 
-![One](/images/file_1626804804178_VM1.png)
+![One](/images/file_1623781304758_Capture12.png)
 
 ### Personal Voicemail
 To configure Personal Voicemail in Agent Setup assign mailbox number to an agent. By default mailbox password is the same as mailbox number, however, you can always change it following the prompts while accessing Voicemail.
 
 In Designer Application change the value of mbx variable to the value of personal mailbox of the agent.
 
-![Two](/images/file_1623781304758_Capture12.png)
+![Two](/images/file_1626804804178_VM1.png)
 
 To access Voicemail login into Agent Desktop and dial 5555, follow the prompts.
