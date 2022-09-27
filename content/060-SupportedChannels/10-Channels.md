@@ -11,3 +11,5 @@ Other then chat and voice following channels/interactions are available in your 
 - Callback
 - Social Media (WhatsApp, Twitter, Facebook)
 - SMS
+- workitems
+
