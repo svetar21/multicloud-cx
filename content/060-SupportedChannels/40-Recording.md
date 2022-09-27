@@ -21,4 +21,4 @@ Password:   Genesys1234
 
 You can see recorded voice, chat and email interactions. You can also record your own by creatinmg interactions with Treasure Bank. You can also record screen for voice interatcios.
 
-![One](/images/Recording2.png)
+![Two](/images/Recording2.png)
