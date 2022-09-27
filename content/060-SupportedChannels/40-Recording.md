@@ -19,6 +19,6 @@ User Name: t1007\giradmin
 Password:   Genesys1234
 
 
-You can see recorded voice, chat and email interactions. You can also record your own by creatinmg interactions with Treasure Bank. You can also record screen for voice interatcios.
+You can see recorded voice, chat and email interactions. You can also record your own by creating interactions with Treasure Bank. You can also record screen for voice interactions.
 
-![Two](/images/Recording2.png)
+![Two](/images/Recording2.PNG)
