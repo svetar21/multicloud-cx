@@ -16,7 +16,7 @@ Login with
 
 User Name: t1007\giradmin
 
-Password:   Genesys1234
+Password:   xxxxxx
 
 
 You can see recorded voice, chat and email interactions. You can also record your own by creating interactions with Treasure Bank. You can also record screen for voice interactions.
